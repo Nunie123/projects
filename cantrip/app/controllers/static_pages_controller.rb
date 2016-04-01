@@ -2,11 +2,15 @@ class StaticPagesController < ApplicationController
   def home
   end
 
-  def help
+  def about
   end
 
   def character_creator
   end
 
+  def legal
+  end
 
+  def contact
+  end
 end
